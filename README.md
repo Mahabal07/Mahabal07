@@ -23,12 +23,6 @@ Python, R, Java, HTML, CSS, SQL
 **Libraries & Frameworks:**  
 Django, Flask, Pandas, NumPy, Seaborn, Scipy, Scikit-learn
 
-**Frontend:**  
-Flutter (Mobile/Web UI), HTML
-
-**Backend:**  
-Python 3.x, Flask
-
 **Core Libraries:**  
 random (for shuffling cards and game logic), g4f.client, Claude-3-Sonnet, Threading
 
