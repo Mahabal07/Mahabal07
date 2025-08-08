@@ -21,8 +21,16 @@ Python, R, Java, HTML, CSS, SQL
 **Libraries & Frameworks:**  
 Django, Flask, Pandas, NumPy, Seaborn, Scipy, Scikit-learn
 
+## Technologies and Models 
+
+I have experience working with the following AI models:
+- Claude
+- Gemini
+- Ollama
+- Kimi-K2
+
 **Core Libraries:**  
-random (for shuffling cards and game logic), g4f.client, Claude-3-Sonnet, Threading
+random , g4f.client, Claude-3-Sonnet, Threading
 
 **Data Analytics & Visualization:**  
 Tableau, Power BI, Statistics & Modeling, Gretl
